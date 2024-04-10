@@ -1,0 +1,16 @@
+{
+  "name": "handlebars-db-json",
+  "version": "1.0.0",
+  "description": "handlebars template engine orqali yaratilgan MVC loyiha database sifatida json faylar ishlatilgan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "O'ktamov Dovudbek",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-handlebars": "^7.1.2"
+  }
+}
